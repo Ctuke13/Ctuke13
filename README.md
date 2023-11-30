@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ctuke13" alt="ctuke13" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React,**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Redux, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ctuke13?tab=repositories](https://github.com/Ctuke13?tab=repositories)
 
